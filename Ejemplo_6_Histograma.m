@@ -1,3 +1,6 @@
+%% Ejemplo 6 - Histograma
+% Atoany Fierro
+
 clc
 clear all
 close all
