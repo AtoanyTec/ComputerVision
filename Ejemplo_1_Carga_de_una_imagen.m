@@ -1,4 +1,9 @@
+%% Ejemplo 1 - Carga de una imagen con Matlab
+% Atoany Fierro
+
 clc
+clear all
+close all
 
 img = imread("Lena1.jpg");
 
