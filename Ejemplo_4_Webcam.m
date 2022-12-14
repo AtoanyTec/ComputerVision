@@ -1,3 +1,6 @@
+%% Ejemplo 4 - Webcam
+% Atoany Fierro
+
 clc
 clear all
 close all
